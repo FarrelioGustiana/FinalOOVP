@@ -1,3 +1,14 @@
 Manifest-Version: 1.0
 X-COMMENT: Main-Class will be added automatically by build
 
+// String id = UUID.randomUUID().toString();
+        // Product product = new Product(id, nameInput.getText(),
+        // Double.valueOf(priceInput.getText()));
+
+        // database.addProduct(product);
+
+        // int[] indexes = categoriesInput.getSelectedIndices();
+        // for (int index : indexes) {
+        // Categories category = categories.get(index);
+        // database.addProductCategory(id, category.getId());
+        // }
